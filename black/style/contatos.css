@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html, body {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    font-size: 100%;
+    background-color: rgb(24, 26, 32);
+}
+
+.imagem-canto {
+    width: 700px;
+    margin-top: -600px;
+    margin-left: 1050px;
+}
+
+.imagem-fundo {
+    margin-top: -0px;
+    height: 700px;
+}
+
+.conteudo {
+    border-top: 0.4px solid rgb(24, 26, 32);
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.cabecalho-logo {
+    height: 30px;
+    margin-left: -102px;
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 32px;
+}
+
+.cabecalho-menu-item {
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.conteudo-principal-escrito-titulo {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+    color: #fff;
+    margin-top: -530px;
+    margin-left: 290px;
+}
+
+.zap {
+    height: 40px;
+    margin-left: 860px;
+}
+
+.insta {
+    margin-top: 700px;
+    height: 40px;
+    margin-left: 5px;
+}
+
+.mail {
+    margin-top: 700px;
+    height: 40px;
+    margin-left: 5px;
+}
+
+.qua {
+    background: rgb(255, 255, 255);
+    width: 1000px;
+    height: 120px;
+    margin-left: 280px;
+    margin-top: 400px;
+    border-radius: 30px;
+}
+
+.insta2 {
+    margin-left: 350px;
+    margin-top: -72px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(24, 26, 32);
+}
+
+.insta3 {
+    margin-top: -55px;
+    margin-left: 1170px;
+    height: 85px;
+}
+
+.qua2 {
+    background: rgb(255, 255, 255);
+    width: 1000px;
+    height: 120px;
+    margin-left: 280px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+.zap2 {
+    margin-left: 350px;
+    margin-top: -72px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(24, 26, 32);
+}
+
+.zap3 {
+    margin-top: -55px;
+    margin-left: 1170px;
+    height: 85px;
+}
+
+.qua3 {
+    background: rgb(255, 255, 255);
+    width: 1000px;
+    height: 120px;
+    margin-left: 280px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+.mail2 {
+    margin-left: 350px;
+    margin-top: -72px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(24, 26, 32);;
+}
+
+.mail3 {
+    margin-top: -55px;
+    margin-left: 1170px;
+    height: 85px;
+}
+
+.dir {
+    font-weight: 400;
+    color: #8969fd;
+    font-family: 'Montserrat Alternates', sans-serif;
+    height: 20px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+
+.mode {
+    height: 20px;
+    margin-left: 5px;
+}
